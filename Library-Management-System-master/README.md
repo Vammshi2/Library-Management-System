@@ -26,19 +26,3 @@ pip install pillow
 
   * run the .py file
   * usename = Prakarsha, password = root
-
-## Screenshots
-
-**Login Screen**
-![](screenshots/1.jpg)
-
-**Home Screen**
-![](screenshots/2.jpg)
-
-**Book Data**
-![](screenshots/3.jpg)
-![](screenshots/4.jpg)
-
-**Student Data**
-![](screenshots/5.jpg)
-![](screenshots/6.jpg)
